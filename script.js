@@ -56,7 +56,7 @@ const anggotaData = [
         nama: "Bunga Carliana Frestania",
         jabatan: "Kang side eye",
         foto: "./po/bung.png",
-        deskripsi: "Mama wopyuu!!"
+        deskripsi: "Jangan biarkan rasa malas dan takutmu itu menghalangi prosesmu."
     },
      {
         nama: "Dea Amelia",
